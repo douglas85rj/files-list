@@ -1,0 +1,3 @@
+Computador\HKEY_LOCAL_MACHINE\SOFTWARE\Sony Creative Software\VEGAS Pro\18.0\Lang
+
+Código: 416

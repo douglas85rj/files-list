@@ -1,0 +1,17 @@
+Augusto
+
+Fortclient
+IP: 201.16.177.169    porta 11443
+
+remoto
+
+10.1.246.48
+
+login:ca7028
+
+
+3cx:
+
+ramal: 6516
+caefe.cwiz.com.br
+senha: 6516c@3f321
