@@ -2,7 +2,7 @@
 
 #### Criar um site/FTP
 
-> Em processo de build Listar os arquivos da pasta *files* com as seguintes informações:
+> Em processo de build Listar os arquivos da pasta *arquivos* com as seguintes informações:
 
 
 * *Nome*
