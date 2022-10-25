@@ -7,7 +7,8 @@
 
 * *Nome*
 * *Tamanho*
-* *Última modificação*
+* *Data da última modificação*
+
 
 #### Utilizar ACTIONS do GITHUBS PAGES
 Permitir o download ao clicar no arquivo 🚀
